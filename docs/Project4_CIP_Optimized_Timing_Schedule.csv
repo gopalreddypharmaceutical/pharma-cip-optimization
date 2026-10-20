@@ -1,0 +1,7 @@
+CIP Step Parameter,Legacy Duration (Min),Optimized Duration (Min),Legacy Valve Pulse Frequency,Optimized Valve Pulse Frequency,Scavenge Pump Status,Cycle Efficiency Gain
+Pre-Wash Infeed Fluid,12.0,10.0,Continuous Open,Continuous Open,Active (50 Hz),16.6% Time Red.
+Caustic Rinse Recirculation,25.0,20.0,Fixed 30s Pulse Interlock,Dynamic Conductivity Interlock,Active (60 Hz),20.0% Time Red.
+Intermediate Flush,10.0,8.0,Continuous Open,Continuous Open,Active (50 Hz),20.0% Time Red.
+Acid Wash Recirculation,18.0,15.0,Fixed 30s Pulse Interlock,Dynamic Conductivity Interlock,Active (60 Hz),16.6% Time Red.
+Final WFI Pure Air Purge,15.0,12.0,Fixed 45s Air Blowout,Dynamic Vacuum Pressure Pulsing,Active (35 Hz),20.0% Time Red.
+Total Cycle Execution,80.0,65.0,N/A,N/A,N/A,18.75% Net Savings
